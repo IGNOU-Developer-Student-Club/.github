@@ -1,5 +1,5 @@
 <div align="center"  >
-    <img src= "../images/ignouDSCBanner.png" height="280" >
+    <img src= "../images/ignouDSCBanner.png" height="280"  />
 </div>
 
 After facing alot of disadvantages being as a distance ignou student
