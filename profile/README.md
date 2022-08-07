@@ -1,12 +1,14 @@
-## Hi there 👋
+<div align="center"  >
+    <img src= "../images/ignouDSCBanner.png" height="280" >
+</div>
 
-<!--
+After facing alot of disadvantages being as a distance ignou student
+IGNOU DEVELOPER STUDENT CLUB (IGNOUDSC) Community helps students to make connection with like minded students all over the india and learn togather.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Connect with us
+
+<a href="https://discord.gg/kakGKwZNhc">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+</a>&ensp;
