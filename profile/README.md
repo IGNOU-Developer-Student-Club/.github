@@ -1,4 +1,6 @@
-![Markdown logo](../images/ignouDSCBanner.png)
+<div align="center"  >
+    <img src= "../images/ignouDSCBanner.png" height="200"  />
+</div>
 
 After facing alot of disadvantages being as a distance ignou student
 IGNOU DEVELOPER STUDENT CLUB (IGNOUDSC) Community helps students to make connection with like minded students all over the india and learn togather.
