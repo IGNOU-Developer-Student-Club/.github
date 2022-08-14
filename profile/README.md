@@ -9,6 +9,6 @@ IGNOU DEVELOPER STUDENT CLUB (IGNOUDSC) Community helps students to make connect
 
 ## Connect with us
 
-<a href="https://discord.gg/kakGKwZNhc">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" target="_blank"/>
+<a href="https://discord.gg/kakGKwZNhc" target="_blank">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a>&ensp;
